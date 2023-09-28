@@ -17,3 +17,4 @@
 16. Create a script that deletes all files in the current working directory that end with the character ~
 17. This script will create a directory structure named "welcome/to/school" in the current directory. The option -p ensures that the entire directory path is created, even if some intermediate directories are missing. It creates parent directories if they do not exist (102-tree)
 18. A script that lists all the files and directories of the current directory. -x: List entries by lines instead of by columns. -a: Include entries that start with a dot (hidden files). -m: Display the names as a comma-separated list. -p: Append a trailing slash / to directories.
+19. Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
