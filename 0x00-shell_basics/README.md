@@ -15,3 +15,4 @@
 14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. You can consider that all HTML files have the extension .html
 15. Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. You can assume that the directory /tmp/u will exist when we will run your script
 16. Create a script that deletes all files in the current working directory that end with the character ~
+17. This script will create a directory structure named "welcome/to/school" in the current directory. The option -p ensures that the entire directory path is created, even if some intermediate directories are missing. It creates parent directories if they do not exist (102-tree)
