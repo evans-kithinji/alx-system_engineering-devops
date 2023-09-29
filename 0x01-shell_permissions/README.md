@@ -1,17 +1,1 @@
-1. (0-iam_betty) a script that switches the current user to the user betty. You should use exactly 8 characters for your command (+1 character for the new line). You can assume that the user betty will exist when we will run your script
-2. (1-who_am_i) A script that prints the effective username of the current user. 
-3. (2-groups) A script that prints all the groups the current user is part of.
-4. (3-new_owner) A script that changes the owner of the file hello to the user betty.
-5. (4-empty) A script that creates an empty file called hello.
-6. (5-execute) A script that adds execute permission to the owner of the file hello. The file hello will be in the working directory
-7. (6-multiple_permissions) A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. The file hello will be in the working directory
-8. (7-everybody) A script that adds execution permission to the owner, the group owner and the other users, to the file hello. The file hello will be in the working directory. You are not allowed to use commas for this script
-9. (8-James_Bond) A script that sets the permission to the file hello as follows: Owner and Group: no permission at all. Other users: all the permissions
-10. (9-John_Doe) A script that sets the mode of the file hello to this: -rwxr-x-wx 1 user group 23 Sep 20 14:25 hello . The file hello will be in the working directory. You are not allowed to use commas for this script.
-11. (10-mirror_permissions) A script that sets the mode of the file hello the same as olleh’s mode. The file hello will be in the working directory. The file olleh will be in the working directory.
-12 (11-directories_permissions) The find command is used to search for files and directories within a specified directory and its subdirectories. The period (dot) represents the current directory. When find is used with . as the starting point, it will search for files and directories within the current directory and its subdirectories. -type d: This option tells find to only look for directories (folders). -exec: The -exec option allows you to execute a command on each file or directory that find locates. chmod a+x {} +: This is the command that find executes for each directory it finds. The curly braces {} are a placeholder that represents the path of each directory that find finds. When find locates a directory, it replaces {} with the actual path of that directory before executing the chmod command. +: The plus sign + acts as a delimiter that tells find to execute the chmod command with multiple arguments at once. This means that find will collect multiple directory paths and pass them as arguments to the chmod command, rather than running the chmod command for each directory separately. 
-13. (12-directory_permissions) A script that creates a directory called my_dir with permissions 751 in the working directory.
-14. (13-change_group) A script that changes the group owner to school for the file hello. The file hello will be in the working directory
-15. (100-change_owner_and_group) A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-16. (101-symbolic_link_permissions) A script that changes the owner and the group owner of _hello to vincent and staff respectively. The file _hello is in the working directory. The file _hello is a symbolic link.
-17. (102-if_only) A script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory.
+18. (103-Star_Wars) A script that will play the StarWars IV episode in the terminal.
