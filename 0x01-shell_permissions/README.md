@@ -8,3 +8,4 @@
 8. (7-everybody) A script that adds execution permission to the owner, the group owner and the other users, to the file hello. The file hello will be in the working directory. You are not allowed to use commas for this script
 9. (8-James_Bond) A script that sets the permission to the file hello as follows: Owner and Group: no permission at all. Other users: all the permissions
 10. (9-John_Doe) A script that sets the mode of the file hello to this: -rwxr-x-wx 1 user group 23 Sep 20 14:25 hello . The file hello will be in the working directory. You are not allowed to use commas for this script.
+11. (10-mirror_permissions) A script that sets the mode of the file hello the same as olleh’s mode. The file hello will be in the working directory. The file olleh will be in the working directory.
