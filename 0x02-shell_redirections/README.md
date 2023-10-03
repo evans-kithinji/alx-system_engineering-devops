@@ -8,3 +8,4 @@ prints (Hello, World), followed by a new line to the standard output
 8. Save current state of directory. writes into the file ls_cwd_content the result of the command ls -la
 9. Duplicate last line. duplicates the last line of the file iacta
 10. No more javascript. deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+11. Dont just count your directories, make your directories count. counts the number of directories and sub-directories in the current directory
