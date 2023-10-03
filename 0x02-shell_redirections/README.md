@@ -21,3 +21,4 @@ prints (Hello, World), followed by a new line to the standard output
 21. esreveR. reverse its input
 22. DJ Cut Killer. displays all users and their home directories, sorted by users
 23. Empty casks make the most noise. finds all empty files and directories in the current directory and all sub-directories
+24. A gif is worth ten thousand words. lists all the files with a .gif extension in the current directory and all its sub-directories
