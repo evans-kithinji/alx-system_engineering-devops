@@ -20,3 +20,4 @@ prints (Hello, World), followed by a new line to the standard output
 20. Without C, you would live in hiago. removes all letters c and C from input
 21. esreveR. reverse its input
 22. DJ Cut Killer. displays all users and their home directories, sorted by users
+23. Empty casks make the most noise. finds all empty files and directories in the current directory and all sub-directories
