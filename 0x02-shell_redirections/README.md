@@ -23,3 +23,4 @@ prints (Hello, World), followed by a new line to the standard output
 23. Empty casks make the most noise. finds all empty files and directories in the current directory and all sub-directories
 24. A gif is worth ten thousand words. lists all the files with a .gif extension in the current directory and all its sub-directories
 25. Acrostic. decodes acrostics that use the first letter of each line
+26. The biggest fan. parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
