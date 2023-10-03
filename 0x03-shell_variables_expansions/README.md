@@ -12,3 +12,4 @@
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath. displays the result of BREATH to the power LOVE. BREATH and LOVE are environment variables
 11. There are 10 types of people in the world -- Those who understand binary, and those who dont. converts a number from base 2 to base 10
 12. Combination. prints all possible combinations of two letters, except oo
+13. Floats. prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM
