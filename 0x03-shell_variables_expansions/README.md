@@ -6,3 +6,4 @@
 4. Global variables. lists environment variables
 5. Local variables. lists all local variables and environment variables, and functions
 6. Local variable. creates a new local variable
+7. Global variable. creates a new global variable
