@@ -7,3 +7,4 @@
 5. Local variables. lists all local variables and environment variables, and functions
 6. Local variable. creates a new local variable
 7. Global variable. creates a new global variable
+8. Every addition to true knowledge is an addition to human power. prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
